@@ -1,6 +1,5 @@
 #屏蔽系统内置反诈应用
 #oppo/一加/真我
-PROCESS-NAME,www.cnblogs.com
 PROCESS-NAME,com.oplus.appdetail
 PROCESS-NAME,com.coloros.phonemanager
 PROCESS-NAME,com.android.packageinstaller
